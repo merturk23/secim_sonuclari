@@ -5,7 +5,7 @@
 		<link rel="stylesheet" href="style.css">
 	</head>
 	<body>
-		
+
 		<div id="container">
 			<div id="header">
 				<h1>Header</h1>
